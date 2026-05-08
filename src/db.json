@@ -1,0 +1,19 @@
+{
+    "blogs": [
+        {
+            "title": "My new blog",
+            "body": "This is a new blog",
+            "author": "mario"
+        },
+        {
+            "title": "My new blog",
+            "body": "This is a new blog",
+            "author": "yoshi"
+        },
+        {
+            "title": "My new blog",
+            "body": "This is a new blog",
+            "author": "luigi"
+        }
+    ]
+}
